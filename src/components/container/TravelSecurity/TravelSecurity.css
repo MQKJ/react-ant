@@ -1,0 +1,671 @@
+.mint-toast.is-placemiddle{
+    z-index: 100000;
+}
+.maskbx1{
+    position: relative;
+    z-index: 992;
+}
+.maskbx1 .Rule-modal{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    /* opacity: 0.5; */
+    background: rgba(000, 000,000,0.85);
+}
+.maskbx1 .Rule-modal .RuleBx{
+    position: absolute;
+    background: #FFFFFF;
+    width: 100%;
+    bottom: 0;
+    margin: 0;
+}
+.R-title{
+    position: relative;
+    width: 100%;
+}
+.R-title .RT-left{
+    position: relative;
+    width: 80%;
+    float: left;
+}
+.R-title .RT-left>p{
+    position: relative;
+    margin-left: 3vw;
+    font-size: 4.5vw;
+    /* margin-top: 1vw; */
+    line-height: 13vw;
+    color: #F86B26;
+    text-align: left;
+}
+.R-title .RT-right{
+    position: relative;
+    width: 20%;
+    float: left;
+}
+.R-title .RT-right .RT-close{
+    position: relative;
+    width: 3.6vw;
+    height: 3.6vw;
+    /* font-size: 3vw; */
+    margin-top: 4vw;
+    /* line-height: 12vw; */
+    float: right;
+    margin-right: 4vw;
+    background: url(../../../assets/images/close.png) no-repeat center center;
+    background-size: 100% 100%;
+}
+.maskbx1 .Rule-modal .RuleBx .R-con{
+    position: relative;
+    width: 92%;
+    margin-left: 4%;
+    margin-bottom: 4vw;
+}
+.maskbx1 .Rule-modal .RuleBx .R-con .rule-ctext{
+    position: relative;
+    width: 100%;
+}
+.RuleBx .R-con .rule-ctext .cnum{
+    position: relative;
+    float: left;
+}
+.RuleBx .R-con .rule-ctext .cnum>p{
+    position: relative;
+    width: 100%;
+    font-size: 3.5vw;
+    line-height: 9vw;
+    color: #666666;
+    text-align: left;
+}
+.RuleBx .R-con .rule-ctext .ctext{
+    position: relative;
+    width: 75%;
+    float: left;
+}
+.RuleBx .R-con .rule-ctext .ctext1{
+    position: relative;
+    width: 75%;
+    float: left;
+}
+.RuleBx .R-con .rule-ctext .ctext1>p{
+    position: relative;
+    width: 100%;
+    font-size: 3.5vw;
+    line-height: 9vw;
+    color: #666666;
+    text-align: left;
+}
+.RuleBx .R-con .rule-ctext .ctext>p{
+    position: relative;
+    width: 100%;
+    font-size: 3.5vw;
+    line-height: 9vw;
+    color: #666666;
+    text-align: left;
+}
+.RuleBx .R-con .rule-ctext .ctext1>p.marginbx{
+    line-height: 4vw;
+    margin-top: 2.5vw;
+    margin-bottom: 1vw;
+}
+.RuleBx .R-con .rule-ctext .cnum1{
+    position: relative;
+    float: left;
+}
+.RuleBx .R-con .rule-ctext .cnum1>p{
+    position: relative;
+    width: 100%;
+    font-size: 3.5vw;
+    line-height: 9vw;
+    color: #666666;
+    text-align: left;
+}
+.RuleBx .R-con .rule-ctext .cnum1>p.marginbx{
+    line-height: 4vw;
+    margin-top: 2.5vw;
+    margin-bottom: 1vw;
+}
+.RuleBx .R-con .rule-ctext .ctext1{
+    position: relative;
+    width: 61%;
+    float: left;
+}
+.RuleBx .R-con .rule-ctext .ctext1>p{
+    position: relative;
+    width: 100%;
+    font-size: 3.5vw;
+    line-height: 9vw;
+    color: #666666;
+    text-align: left;
+}
+.maskbx1 .Rule-modal .RuleBx .R-bot{
+    position: relative;
+    width: 100%;
+}
+.maskbx1 .Rule-modal .RuleBx .R-bot .RC-confirm{
+    position: relative;
+    bottom: 0;
+    /* z-index: 10005; */
+    width: 100vw;
+    height: 13vw;
+    z-index: 888;
+    background: #F86B26;
+}
+.maskbx1 .Rule-modal .RuleBx .R-bot .RC-confirm>p{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    font-size: 4vw;
+    line-height: 13vw;
+    color: #fff;
+
+}
+.container1{
+    position: relative;
+    width: 100%;
+}
+.left{
+    float: left;
+}
+.clear{
+    clear: both;
+}
+.margin{
+    margin-top: 10vw;
+}
+.container1 .content1{
+    position: relative;
+    width: 100%;
+    background: #FFE4C9;
+    /*margin-bottom: 13vw;*/
+}
+.container1 .content1 .pac-bx{
+    position: relative;
+    width: 100vw;
+    height: 77vw;
+    z-index: 888;
+    background: url(../../../assets/images/t-packet-redbg.jpg) no-repeat center center;
+    background-size: 100% 100%;
+}
+.container1 .content1 .pac-bx .pac-red-bx{
+    position: relative;
+    width: 100%;
+    top: 8vw;
+}
+.container1 .content1 .pac-bx .pac-red-bx .red-win{
+    position: relative;
+    width: 81%;
+    margin: 0 auto;
+}
+.red-winbg{
+    position: relative;
+    height: 65vw;
+    z-index: 888;
+    background: url(../../../assets/images/t-packet-winbg.png) no-repeat center center;
+    background-size: 100% 100%;
+    animation: winbg 1s ;
+    -webkit-animation: winbg  1s ;
+    -moz-animation: winbg  1s ;
+}
+@keyframes winbg{
+    0%{
+        transform: translateY(90%);
+    }
+    100%{
+        transform: translateY(0%);
+    }
+}
+@-webkit-keyframes winbg{
+    0%{
+        transform: translateY(90%);
+    }
+    100%{
+        transform: translateY(0%);
+    }
+}
+@-moz-keyframes winbg{
+    0%{
+        transform: translateY(90%);
+    }
+    100%{
+        transform: translateY(0%);
+    }
+}
+.container1 .content1 .pac-bx .pac-red-bx .red-top{
+    position: absolute;
+    width: 84%;
+    height: 29vw;
+    margin: 0 auto;
+    left: 8%;
+    top: 38.2vw;
+    z-index: 900;
+    background: url(../../../assets/images/t-packet-redtop.png) no-repeat center center;
+    background-size: 100% 100%;
+}
+/*.container .content .pac-bx .pac-red-bx .red-top>img{
+  position: relative;
+  width: 100%;
+}*/
+.red-active{
+    position: absolute;
+    width: 33%;
+    height: 13vw;
+    margin: 0 auto;
+    margin-left: 31%;
+    top: 48vw;
+    z-index: 902;
+    animation: change 1s infinite linear;
+    -webkit-animation: change 1s infinite linear;
+    -moz-animation: change 1s infinite linear;
+    background: url(../../../assets/images/t-packet-activate.png) no-repeat center center;
+    background-size: 100% 100%;
+}
+/*.red-active>img{
+  position: relative;
+  width: 100%;
+}*/
+.container1 .content1 .pac-bx .pac-red-bx .red-shang{
+    position: relative;
+    width: 100%;
+    z-index: 901;
+}
+.container1 .content1 .pac-bx .pac-red-bx .red-shang .shangbg{
+    position: relative;
+    width: 84%;
+    left: 8vw;
+    top: 6vw;
+    height: 48vw;
+    background: url(../../../assets/images/t-packet-shang.png) no-repeat center center;
+    background-size: 100% 100%;
+}
+.container1 .content1 .pac-bx .pac-red-bx .red-shang .shang-text{
+    position: absolute;
+    width: 94%;
+    left: 3%;
+    top: 11vw;
+}
+.container1 .content1 .pac-bx .pac-red-bx .red-shang .shang-text>img{
+    position: relative;
+    width: 100%;
+}
+.red-click{
+    position: absolute;
+    width: 16%;
+    margin: 0 auto;
+    margin-left: 42%;
+    top: 53vw;
+    z-index: 902;
+    animation: change 1s infinite linear;
+    -webkit-animation: change 1s infinite linear;
+    -moz-animation: change 1s infinite linear;
+}
+.red-click>img{
+    position: relative;
+    width: 100%;
+}
+
+@keyframes change{
+    0%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(1.1);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+@-webkit-keyframes change{
+    0%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(1.1);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+@-moz-keyframes change{
+    0%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(1.1);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+.red-float{
+    position: absolute;
+    width: 98%;
+    height: 71.5vw;
+    margin: 0 auto;
+    left: 2%;
+    top: 3vw;
+    z-index: 901;
+    background: url(../../../assets/images/t-packet-float.png) no-repeat center center;
+    background-size: 100% 100%;
+}
+/*.red-float>img{
+    position: relative;
+  width: 100%;
+}*/
+.red-plane1{
+    position: absolute;
+    width: 36%;
+    margin: 0 auto;
+    left: 62%;
+    top: 7vw;
+    z-index: 902;
+}
+.red-plane1>img{
+    position: relative;
+    width: 100%;
+}
+.red-plane{
+    position: absolute;
+    width: 36%;
+    margin: 0 auto;
+    left: 62%;
+    top: 7vw;
+    z-index: 902;
+}
+.red-plane>img{
+    position: relative;
+    width: 100%;
+    animation: plane 1s;
+    -webkit-animation: plane 1s;
+    -moz-animation: plane 1s;
+}
+@keyframes plane{
+    0%{
+        transform: scale(0.2);
+        transform: translateZ(70%);
+    }
+    100%{
+        transform: scale(1);
+        transform: translateZ(0%);
+    }
+}
+@-webkit-keyframes plane{
+    0%{
+        transform: scale(0.2);
+        transform: translateZ(70%);
+    }
+    100%{
+        transform: scale(1);
+        transform: translateZ(0%);
+    }
+}
+@-moz-keyframes plane{
+    0%{
+        transform: scale(0.2);
+        transform: translateZ(70%);
+    }
+    100%{
+        transform: scale(1);
+        transform: translateZ(0%);
+    }
+}
+.container1 .content1 .pac-bx .pac-red-bx .red-text{
+    position: relative;
+    width: 95%;
+    margin: 0 auto;
+}
+.container1 .content1 .pac-bx .pac-red-bx .red-text>img{
+    position: relative;
+    width: 100%;
+}
+.container1 .content1 .pac-train{
+    position: absolute;
+    width: 58vw;
+    height: 30vw;
+    top: 67vw;
+    float: left;
+    z-index: 899;
+    background: url(../../../assets/images/t-packet-train.png) no-repeat center center;
+    background-size: 100% 100%;
+}
+/*.container .content .pac-train>img{
+  position: relative;
+  width: 100%;
+}*/
+.container1 .content1 .pac-rank{
+    position: relative;
+    width: 100%;
+    height: 24vw;
+    padding-top: 11.5vw;
+    margin-top: -3vw;
+    background: url(../../../assets/images/t-packet-rankbg.png) no-repeat center center;
+    background-size: 100% 100%;
+    z-index: 888;
+}
+.container1 .content1 .pac-rank>img{
+    position: relative;
+    width: 23vw;
+    float: right;
+}
+.container1 .content1 .pac-rule-bx{
+    position: relative;
+    width: 100vw;
+    z-index: 888;
+    margin-bottom: 13vw;
+    margin-top: -1vw;
+}
+.container1 .content1 .pac-rule-bx .rule-bx{
+    position: relative;
+    width: 97vw;
+    margin-left: 1.5vw;
+    background: #FFFFEC;
+    border-radius: 2vw;
+    /* height: 155vw; */
+    padding-bottom: 2vw;
+    padding-top: 6vw;
+}
+.container1 .content1 .pac-rule-bx .rule-bx .rule-cont{
+    position: relative;
+    width: 94%;
+    left: 3%;
+    margin-top: 10vw;
+}
+.container1 .content1 .pac-rule-bx .rule-bx .rule-cont .rule-top{
+    position: relative;
+    width: 100%;
+}
+.rule-bx .rule-cont .rule-top .rule-line{
+    position: relative;
+    width: 34%;
+    float: left;
+}
+.rule-bx .rule-cont .rule-top .rule-line>div{
+    position: relative;
+    height: 5vw;
+    border-bottom: 0.34vw solid#EDC9A5;
+}
+.rule-bx .rule-cont .rule-top .rule-title{
+    position: relative;
+    width: 32%;
+    float: left;
+}
+.rule-bx .rule-cont .rule-top .rule-title>p{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    font-size: 5vw;
+    line-height: 9vw;
+    color: #9E7449;
+}
+.rule-bx .rule-cont .rule-content{
+    position: relative;
+    width: 94%;
+    left: 2%;
+    margin-top: 5vw;
+}
+.rule-bx .rule-cont .rule-content .rule-ctext{
+    position: relative;
+    width: 100%;
+    margin-bottom: 2vw;
+}
+.rule-bx .rule-cont .rule-content .rule-ctext .ctext-img{
+    position: relative;
+    width: 5%;
+    font-size: 5vw;
+    float: left;
+}
+.rule-bx .rule-cont .rule-content .rule-ctext .ctext-img>img{
+    position: relative;
+    width: 53%;
+}
+.rule-bx .rule-cont .rule-content .rule-ctext .ctext-text{
+    position: relative;
+    width: 93%;
+    margin-left: 2%;
+    float: left;
+}
+.rule-bx .rule-cont .rule-content .rule-ctext .ctext-text>p{
+    position: relative;
+    width: 100%;
+    font-size: 3.8vw;
+    line-height: 6.5vw;
+    text-align: justify;
+    color: #666666;
+}
+.rule-bx .rule-cont .rule-content .rule-ctext .ctext-text1{
+    position: relative;
+    width: 93%;
+    margin-left: 2%;
+    float: left;
+}
+.rule-bx .rule-cont .rule-content .rule-ctext .ctext-text1>p{
+    position: relative;
+    font-size: 3.8vw;
+    line-height: 6.5vw;
+    text-align: justify;
+    color: #666666;
+}
+.baoe{
+    float: left;
+}
+.rule-bx .rule-cont .rule-content .rule-ctext .ctext-text1 .baoe>p{
+    position: relative;
+    font-size: 3.8vw;
+    line-height: 6.5vw;
+    text-align: justify;
+    color: #666666;
+}
+.clause-bx{
+    position: relative;
+    width: 100%;
+    height: 13vw;
+}
+.clause-bx .pac-clause{
+    position: relative;
+    left: 6vw;
+    font-size: 4vw;
+    float: left;
+}
+.clause-bx .pac-clause>img{
+    position: relative;
+    width: 17vw;
+    margin-right: 5vw;
+    margin-top: 3vw;
+}
+.container1 .pac-order{
+    position: fixed;
+    bottom: 0;
+    /* z-index: 10005; */
+    width: 100vw;
+    height: 13vw;
+    z-index: 888;
+    background: #F86B26;
+}
+.container1 .pac-order>p{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    font-size: 4vw;
+    line-height: 13vw;
+    color: #fff;
+}
+.maskbx{
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 990;
+    background: rgba(255, 255,255,0.65);
+}
+.maskbx .mask-textbx{
+    position: relative;
+    background: rgba(0, 0, 0, 0.65);
+    width: 71%;
+    top: 42%;
+    height: 25vw;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    margin: 0;
+    border-radius: 2vw;
+}
+.maskbx .mask-textbx>p{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    font-size: 4.5vw;
+    line-height: 7.4vw;
+    font-family: yahei;
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    margin: 0;
+}
+.red-wintext{
+    position: relative;
+    width: 100%;
+    padding-top: 6vw;
+}
+.text-top{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    font-size: 7.2vw;
+    line-height: 10vw;
+    color: #f55b15;
+    font-weight: bold;
+}
+.text-cen{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    font-size: 6vw;
+    line-height: 8vw;
+    color: #f55b15;
+    font-weight: bold;
+}
+.text-cen .text-span{
+    color: #f30101;
+    font-size: 8vw;
+}
+.text-bot{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    font-size: 3.89vw;
+    line-height: 5vw;
+    color: #f55b15;
+    font-weight: bold;
+}
+.text-dres{
+    position: relative;
+    width: 102%;
+    text-align: center;
+    font-size: 3.18vw;
+    line-height: 14vw;
+    color: #ac7d50;
+    font-weight: bold;
+}

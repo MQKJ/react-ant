@@ -1,0 +1,19 @@
+
+
+.diff-html-added {
+    background-color: #00cc00;
+    border-color: #93c49f;
+}
+
+.diff-html-removed {
+    background-color: #ff99cc;
+    border-color: #df9898;
+}
+
+.diff-html-changed {
+    background-color: #0099ff;
+    border-color: #9eb6d4;
+}
+
+
+

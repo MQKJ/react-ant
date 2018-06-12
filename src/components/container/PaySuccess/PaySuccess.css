@@ -1,0 +1,109 @@
+
+ .container {
+   position: relative;
+   width: 100%;
+ }
+.content {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  background: url(../../../assets/images/t-success-bg.png) no-repeat center center;
+  background-size: 100% 100%;
+  z-index: 000;
+}
+.suc-bx {
+  position: relative;
+}
+.suc-prosit{
+  position: relative;
+  width: 100vw;
+  padding-top: 34vw;
+}
+.suc-prosit .img-bx{
+  position: relative;
+  width: 80vw;
+  height: 41.4vw;
+  margin: 0 auto;
+  background: url(../../../assets/images/t-success-point.png) no-repeat center center;
+  background-size: 100% 100%;
+}
+.suc-prosit .img-bx2{
+  position: relative;
+  width: 80vw;
+  height: 41.4vw;
+  margin: 0 auto;
+  background: url(../../../assets/images/t-success2-point.png) no-repeat center center;
+  background-size: 100% 100%;
+}
+.suc-p-buy{
+  position: relative;
+  width: 100vw;
+  font-size: 10vw;
+  color: red;
+  text-align: center;
+  line-height: 15vw;
+}
+.suc-p-click{
+  position: relative;
+  width: 100vw;
+  font-size: 5vw;
+  color: red;
+  text-align: center;
+  font-weight: bold;
+  line-height: 15vw;
+}
+.suc-click {
+  position: relative;
+  width: 60vw;
+  top: 8vw;
+  height: 15vw;
+  margin: 0 auto;
+  background: url(../../../assets/images/t-success-click.png) no-repeat center center;
+  background-size: 100% 100%;
+}
+.click-p{
+  position: relative;
+  width: 100%;
+  font-size: 5.5vw;
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  line-height: 15vw;
+}
+.ownership-bx {
+  position: absolute;
+  bottom: 2vw;
+}
+.ship-text{
+  position: relative;
+  width: 100vw;
+  font-size: 3vw;
+  color: red;
+  text-align: center;
+  line-height: 5vw;
+}
+.record-text{
+  position: relative;
+  width: 100vw;
+  font-size: 3vw;
+  color: red;
+  text-align: center;
+  line-height: 5vw;
+}
+.mask-bx {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  z-index: 111;
+  background: rgba(0, 0, 0, 0.83);
+}
+.transmit-bx {
+  position: relative;
+  width: 70vw;
+  margin-left: 21vw;
+  top: 3.3vw;
+}
+img{
+  position:relative;
+  width:100%;
+}
